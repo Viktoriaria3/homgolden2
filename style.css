@@ -1,0 +1,110 @@
+.h1 {
+    font-family: Bilbo Swash Caps;
+    font-size: 36px;
+    font-weight: 400;
+    line-height: 41px;
+    letter-spacing: 1.2999999523162842px;
+    text-align: left;
+    color: #FED136;
+}
+.header-li {
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 41px;
+    letter-spacing: 0px;
+    text-align: center;
+    color: #FED136;
+}
+.gallery-heading {
+    font-family: Montserrat;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 75px;
+    letter-spacing: -1px;
+    text-align: center;
+    color:#222222;
+}
+.gallery-image {
+    background-color: #FFFFFF;
+    color: #FED136;
+    text-align: center;
+    border: 3px solid #FED136
+}
+.gallery-category {
+    font-family: Montserrat;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 75px;
+    letter-spacing: -0.44999998807907104px;
+    text-align: center;
+}
+.gallery-text {
+    font-family: RobotoSlab;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: -0.3499999940395355px;
+    text-align: center;
+    color: #777777;
+}
+.gallery-contact {
+    font-family: Montserrat;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 49px;
+    letter-spacing: -1px;
+    text-align: center;
+    color: #222222;
+}
+.contact-name {
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 17px;
+    letter-spacing: -0.3499999940395355px;
+    text-align: left;
+    background-color: #FFFFFF;
+    color: #BBBBBB;
+}
+.contact-email {
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 17px;
+    letter-spacing: -0.3499999940395355px;
+    text-align: left;
+    background-color: #FFFFFF;
+    color: #BBBBBB;
+}
+.contact-subject {
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 17px;
+    letter-spacing: -0.3499999940395355px;
+    text-align: left;
+    background-color: #FFFFFF;
+    color: #BBBBBB;
+}
+.contact-message {
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 17px;
+    letter-spacing: -0.3499999940395355px;
+    text-align: left;
+    background-color: #FFFFFF;
+    color: #BBBBBB;
+}
+.contact-button {
+    font-family: Montserrat;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 22px;
+    letter-spacing: 0px;
+    text-align: center;
+    background-color: #FED136;
+    color: #FFFFFF;
+}
+
+
